@@ -80,11 +80,13 @@ markdown_extensions:
 # Page tree
 nav:
   - Home: index.md
+  - TODO: todo.md
   - Work: work.md
   - Life: life.md
+  - Book: book.md
   - Learn: learn.md
+  - Quote: quote.md
   - Experience: experience.md
-  - TODO: todo.md
 
 # Analytics
 
