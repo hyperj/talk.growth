@@ -9,9 +9,10 @@
 #### 工具箱
 
 - Word、Excel、PPT
-- Calendar、Keep、Evernote、ProcessOn
-- CheatSheet、VS Code、Idea
-- Anaconda、Docker、Git
+- Calendar、Keep、Evernote、Draw、ProcessOn
+- CheatSheet、VS Code、Idea、Notebook
+- Anaconda、Docker、Rancher、Git、Maven
+- SQL、Java、Scala、Python、Shell
 
 #### 方法论（Trick）
 

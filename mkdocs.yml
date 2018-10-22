@@ -81,11 +81,12 @@ markdown_extensions:
 nav:
   - Home: index.md
   - TODO: todo.md
-  - Work: work.md
   - Life: life.md
   - Book: book.md
-  - Learn: learn.md
+  - Work: work.md
+  - Rule: rule.md
   - Quote: quote.md
+  - Learn: learn.md
   - Experience: experience.md
 
 # Analytics
