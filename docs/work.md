@@ -14,6 +14,16 @@
 - Anaconda、Docker、Rancher、Git、Maven
 - SQL、Java、Scala、Python、Shell
 
+#### Diagram & Presentation
+
+- Mind Map
+- Quadrant
+- Radar
+- Fishbone
+- [Extreme Presentation Tools](https://extremepresentation.typepad.com/blog/tools.html)
+- [Choosing a good chart](https://extremepresentation.typepad.com/blog/2006/09/choosing_a_good.html)
+- [Announcing the Slide Chooser](https://extremepresentation.typepad.com/blog/2015/01/announcing-the-slide-chooser.html)
+
 #### 方法论（Trick）
 
 - [SWOT分析模型](https://wiki.mbalib.com/wiki/SWOT)
@@ -43,6 +53,7 @@
 #### 其他
 
 - 沟通、提问、倾听
+
 
 ## 管理
 

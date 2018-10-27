@@ -12,6 +12,19 @@
 
 边际报酬递减、边际贡献递减
 
+## [博弈论](https://wiki.mbalib.com/wiki/%E5%8D%9A%E5%BC%88%E8%AE%BA)
+
+激励结构(Incentive Structure)
+
+斗争、竞争，预测行为、实际行为，优化策略
+
+博弈树法则：
+
+- 向前展望，倒后推理
+- 发挥优势策略
+- 剔除劣势策略
+- 均衡、策略
+
 ## Reference
 
 * [MBA智库·百科](https://wiki.mbalib.com)
