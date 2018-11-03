@@ -79,15 +79,17 @@ markdown_extensions:
 
 # Page tree
 nav:
-  - Home: index.md
-  - TODO: todo.md
-  - Life: life.md
-  - Book: book.md
-  - Work: work.md
-  - Rule: rule.md
-  - Quote: quote.md
-  - Learn: learn.md
-  - Experience: experience.md
+  - Home:
+    - TODO: todo.md
+  - 工作:
+    - Work: work.md
+  - 学习:
+    - Book: book.md
+    - Rule: rule.md
+  - 生活:
+    - Life: life.md
+  - 体验:
+    - Quote: quote.md
 
 # Analytics
 
