@@ -2,6 +2,8 @@
 
 ## Learn
 
+- Mathematics
+- Algorithm
 - NLP
 - Graph
 

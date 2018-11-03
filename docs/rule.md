@@ -1,5 +1,9 @@
 # 规则（Rule）
 
+## [ABC分类法(Activity Based Classification)](https://wiki.mbalib.com/wiki/ABC%E5%88%86%E7%B1%BB%E6%B3%95)
+
+关键因素、次要因素
+
 ## [边际效应](https://wiki.mbalib.com/wiki/%E8%BE%B9%E9%99%85%E6%95%88%E5%BA%94)
 
 单位、收益、资源（稀缺）、知识（共享）

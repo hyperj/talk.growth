@@ -1,5 +1,7 @@
-# Personal Growth（个人成长）
+# Personal Growth
 
 Work, Learn, Life, Experience
 
 ## Reference
+
+- [HyperJ's Site](https://hyperj.net)

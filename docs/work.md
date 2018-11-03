@@ -8,7 +8,7 @@
 
 #### 工具箱
 
-- Word、Excel、PPT
+- Word、Excel、PPT、Project
 - Calendar、Keep、Evernote、Draw、ProcessOn
 - CheatSheet、VS Code、Idea、Notebook
 - Anaconda、Docker、Rancher、Git、Maven
@@ -16,10 +16,11 @@
 
 #### Diagram & Presentation
 
-- Mind Map
-- Quadrant
-- Radar
-- Fishbone
+- 思维导图（Mind Map）
+- 象限图（Quadrant Map）
+- 雷达图（Radar Chart）
+- 鱼骨图（Fishbone Diagram）
+- 甘特图（Gantt Chart）
 - [Extreme Presentation Tools](https://extremepresentation.typepad.com/blog/tools.html)
 - [Choosing a good chart](https://extremepresentation.typepad.com/blog/2006/09/choosing_a_good.html)
 - [Announcing the Slide Chooser](https://extremepresentation.typepad.com/blog/2015/01/announcing-the-slide-chooser.html)

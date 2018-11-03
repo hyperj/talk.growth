@@ -1,6 +1,6 @@
 # Project information
 site_name: Personal Growth
-site_description: Personal Growth（个人成长）
+site_description: Personal Growth
 site_author: HyperJ
 site_url: https://github.com/hyperj/talk.growth
 
@@ -21,7 +21,7 @@ theme:
     - 404.html
 
   # Don't include MkDocs' JavaScript
-  include_search_page: false
+  include_search_page: true
   search_index_only: true
 
   # Default values, taken from mkdocs_theme.yml
@@ -29,19 +29,19 @@ theme:
   feature:
     tabs: true
   palette:
-    primary: indigo
-    accent: indigo
+    primary: white
+    accent: amber
   font:
     text: Roboto
     code: Roboto Mono
   favicon: assets/images/hyperj-black.png
-  logo: assets/images/hyperj.png
+  logo: assets/images/hyperj-black.png
 
 # Customization
 extra:
   social:
     - type: github-alt
-      link: https://gist.github.com/hyperj/
+      link: https://gist.github.com/hyperj
     - type: github
       link: https://github.com/hyperj
     - type: h-square
