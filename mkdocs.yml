@@ -2,7 +2,7 @@
 site_name: Personal Growth
 site_description: Personal Growth
 site_author: HyperJ
-site_url: https://github.com/hyperj/talk.growth
+site_url: https://hyperj.net/talk.growth
 
 # Repository
 repo_name: hyperj/talk.growth
@@ -45,7 +45,7 @@ extra:
     - type: github
       link: https://github.com/hyperj
     - type: h-square
-      link: http://blog.hyperj.net
+      link: https://hyperj.net
     - type: linkedin
       link: https://www.linkedin.com/in/hyperj
 
