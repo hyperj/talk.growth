@@ -79,8 +79,7 @@ markdown_extensions:
 
 # Page tree
 nav:
-  - Home:
-    - TODO: todo.md
+  - Home: todo.md
   - 工作:
     - Work: work.md
   - 学习:
