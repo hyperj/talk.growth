@@ -1,16 +1,16 @@
 # Project information
 site_name: Personal Growth
-site_description: Personal Growth
+site_description: 个人成长（Personal Growth）
 site_author: HyperJ
 site_url: https://hyperj.net/talk.growth
 
 # Repository
 repo_name: hyperj/talk.growth
 repo_url: https://github.com/hyperj/talk.growth
-edit_uri: ""
+edit_uri: blob/master/docs
 
 # Copyright
-copyright: 'Copyright &copy; 2009 - 2018 HyperJ'
+copyright: 'Copyright &copy; 2013 - 2018 HyperJ'
 
 # Configuration
 theme:
@@ -40,12 +40,10 @@ theme:
 # Customization
 extra:
   social:
-    - type: github-alt
-      link: https://gist.github.com/hyperj
-    - type: github
-      link: https://github.com/hyperj
     - type: h-square
       link: https://hyperj.net
+    - type: github
+      link: https://github.com/hyperj
     - type: linkedin
       link: https://www.linkedin.com/in/hyperj
 
