@@ -1,6 +1,6 @@
 # Project information
 site_name: Personal Growth
-site_description: 个人成长（Personal Growth）
+site_description: 个人成长手册
 site_author: HyperJ
 site_url: https://hyperj.net/talk.growth
 
@@ -10,7 +10,7 @@ repo_url: https://github.com/hyperj/talk.growth
 edit_uri: blob/master/docs
 
 # Copyright
-copyright: 'Copyright &copy; 2013 - 2018 HyperJ'
+copyright: Copyright &copy; 2013 - 2019 HyperJ <script type="text/javascript">document.write(unescape("%3Cdiv id='cnzz_stat_icon_1275779234'%3E%3C/div%3E%3Cscript src='https://s5.cnzz.com/z_stat.php%3Fid%3D1275779234%26online%3D1%26show%3Dline' type='text/javascript'%3E%3C/script%3E"));</script>
 
 # Configuration
 theme:

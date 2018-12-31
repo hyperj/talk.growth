@@ -1,13 +1,13 @@
-# Personal Growth（个人成长）
+# Personal Growth
 
-Work, Learn, Life, Experience
+Work, Learn, Life, Read, Experience
 
 ## TODO
 
 - Mathematics
-- Algorithm
-- NLP
-- Graph
+- Data Structure & Algorithm
+- PGM 、NLP
+- Spark、Flink
 
 ## Mark
 

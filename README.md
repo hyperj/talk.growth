@@ -1,6 +1,6 @@
 # Personal Growth
 
-Work, Learn, Life, Experience
+Work, Learn, Life, Read, Experience
 
 ## Reference
 
