@@ -34,8 +34,8 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
-  favicon: assets/images/hyperj-black.png
-  logo: assets/images/hyperj-black.png
+  favicon: /assets/images/hyperj.ico
+  logo: /assets/images/hyperj.png
 
 # Customization
 extra:
