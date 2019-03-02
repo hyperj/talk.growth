@@ -57,6 +57,10 @@
 
 目标 → 任务 → 工作 → 活动
 
+- [RACI](https://wiki.mbalib.com/wiki/RACI%E6%A8%A1%E5%9E%8B)
+
+谁负责（Responsible）、谁批准（Accountable）、咨询谁（Consulted）、告知谁（Informed）
+
 #### 其他
 
 - 沟通、提问、倾听

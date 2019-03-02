@@ -14,7 +14,7 @@ copyright: Copyright &copy; 2013 - <span id="cyear">2013</span> HyperJ <script t
 
 # Configuration
 theme:
-  name: 'material'
+  name: material
 
   # 404 page
   static_templates:
@@ -46,6 +46,9 @@ extra:
       link: https://github.com/hyperj
     - type: linkedin
       link: https://www.linkedin.com/in/hyperj
+
+extra_css:
+  - /assets/css/mkdocs/material.css
 
 # Extensions
 markdown_extensions:
