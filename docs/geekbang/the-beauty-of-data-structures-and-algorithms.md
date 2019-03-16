@@ -2,11 +2,11 @@
 
 数据结构和算法是相辅相成的。数据结构是为算法服务的，算法要作用在特定的数据结构之上。
 
-![data-structures-and-algorithms](../assets/images/geekbang/the-beauty-of-data-structures-and-algorithms/data-structures-and-algorithms.jpg)
+![data-structures-and-algorithms](../../assets/images/geekbang/the-beauty-of-data-structures-and-algorithms/data-structures-and-algorithms.jpg)
 
 ## 复杂度分析
 
-![Big-O Cheatsheet](../assets/images/geekbang/the-beauty-of-data-structures-and-algorithms/big-o-cheatsheet.jpg)
+![Big-O Cheatsheet](../../assets/images/geekbang/the-beauty-of-data-structures-and-algorithms/big-o-cheatsheet.jpg)
 
 ### 分类
 

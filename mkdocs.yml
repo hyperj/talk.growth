@@ -1,5 +1,5 @@
 # Project information
-site_name: Personal Growth
+site_name: 个人成长手册
 site_description: 个人成长手册
 site_author: HyperJ
 site_url: https://hyperj.net/talk.growth
@@ -90,20 +90,19 @@ nav:
     - 阅读: book.md
     - 规则: rule.md
     - 得到:
-        - 《逻辑思维 - 罗胖》: igetget/logical-thinking.md
-        - 《精英日课 - 万维钢》: igetget/elite-day-class.md
-        - 《清华管理学课 - 宁向东》: igetget/tsinghua-management-course.md
-        - 《北大领导力30讲 - 刘澜》: igetget/peking-university-leadership-30-lectures.md
-        - 《怎样成为精力管理的高手 - 张遇升》: igetget/how-to-become-a-master-of-energy-management.md
+      - 《逻辑思维 - 罗胖》: igetget/logical-thinking.md
+      - 《精英日课 - 万维钢》: igetget/elite-day-class.md
+      - 《清华管理学课 - 宁向东》: igetget/tsinghua-management-course.md
+      - 《北大领导力30讲 - 刘澜》: igetget/peking-university-leadership-30-lectures.md
+      - 《怎样成为精力管理的高手 - 张遇升》: igetget/how-to-become-a-master-of-energy-management.md
     - 极客时间:
-        - 《数据结构与算法之美 - 王争》: geekbang/the-beauty-of-data-structures-and-algorithms.md
-        - 《人工智能基础课 - 王天一》: geekbang/artificial-intelligence-basic-course.md
-        - 《机器学习 - 王天一》: geekbang/machine-learning.md
-        - 《Java核心技术36讲 - 杨晓峰》: geekbang/java-core-technology.md
-        - 《深入拆解Java虚拟机 - 郑雨迪》: geekbang/deep-dive-into-java-virtual-machine.md
+      - 《数据结构与算法之美 - 王争》: geekbang/the-beauty-of-data-structures-and-algorithms.md
+      - 《人工智能基础课 - 王天一》: geekbang/artificial-intelligence-basic-course.md
+      - 《机器学习 - 王天一》: geekbang/machine-learning.md
+      - 《Java核心技术36讲 - 杨晓峰》: geekbang/java-core-technology.md
+      - 《深入拆解Java虚拟机 - 郑雨迪》: geekbang/deep-dive-into-java-virtual-machine.md
   - 生活:
     - 生活: life.md
-  - 体验:
     - 引用: quote.md
 
 # Analytics

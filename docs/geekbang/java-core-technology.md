@@ -4,7 +4,7 @@
 
 ### Java 内存区域
 
-![Run-Time Data Areas](../assets/images/geekbang/java-core-technology/jmm.png)
+![Run-Time Data Areas](../../assets/images/geekbang/java-core-technology/jmm.png)
 
 #### 程序计数器（PC，Program Counter Register）
 
