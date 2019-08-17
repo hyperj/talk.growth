@@ -8,6 +8,7 @@ Work, Learn, Life, Read, Experience
 - Data Structure & Algorithm
 - PGM 、NLP
 - Spark、Flink
+- 数据仓库、数据管理
 
 ## 得到
 
@@ -16,6 +17,7 @@ Work, Learn, Life, Read, Experience
 - 《清华管理学课 - 宁向东》
 - 《北大领导力30讲 - 刘澜》
 - 《怎样成为精力管理的高手 - 张遇升》
+- 《老喻的人生算法课 - 喻颖正》
 
 ## 极客时间
 
@@ -27,6 +29,6 @@ Work, Learn, Life, Read, Experience
 
 ## Reference
 
-- [HyperJ's Site](https://hyperj.net)
+- [HyperJ](https://hyperj.net)
 - [得到](https://www.igetget.com/)
 - [极客时间](https://time.geekbang.org/)
