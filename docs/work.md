@@ -74,4 +74,4 @@
 
 ## Reference
 
-* [MBA智库·百科](https://wiki.mbalib.com)
+- [MBA智库·百科](https://wiki.mbalib.com)

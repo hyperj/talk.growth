@@ -55,6 +55,6 @@
 
 ## Reference
 
-* [MBA智库·百科](https://wiki.mbalib.com)
+- [MBA智库·百科](https://wiki.mbalib.com)
 - [世界500强企业经典管理法则](https://wiki.mbalib.com/wiki/%E4%B8%96%E7%95%8C500%E5%BC%BA%E4%BC%81%E4%B8%9A%E7%BB%8F%E5%85%B8%E7%AE%A1%E7%90%86%E6%B3%95%E5%88%99)
 - [影响世界的100个经典管理定律](https://wiki.mbalib.com/wiki/%E5%BD%B1%E5%93%8D%E4%B8%96%E7%95%8C%E7%9A%84100%E4%B8%AA%E7%BB%8F%E5%85%B8%E7%AE%A1%E7%90%86%E5%AE%9A%E5%BE%8B)
