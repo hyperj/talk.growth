@@ -40,11 +40,11 @@ theme:
 # Customization
 extra:
   social:
-    - type: h-square
+    - icon: fontawesome/solid/h-square
       link: https://hyperj.net
-    - type: github
+    - icon: fontawesome/brands/github
       link: https://github.com/hyperj
-    - type: linkedin
+    - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/hyperj
 
 extra_css:
