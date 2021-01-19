@@ -15,6 +15,9 @@ copyright: Copyright &copy; 2013 - <span id="cyear">2013</span> HyperJ <script t
 # Configuration
 theme:
   name: material
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
 
   # 404 page
   static_templates:
