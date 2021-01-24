@@ -8,6 +8,7 @@ Work, Learn, Life, Read, Experience
 - Data Structure & Algorithm
 - PGM 、NLP
 - Spark、Flink
+- ClickHouse、Doris
 
 ## 樊登读书
 

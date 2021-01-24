@@ -2,11 +2,11 @@
 
 ## 数据管理（Data Management）
 
-- 实时、离线数仓
-- 资源分析、优化
+- 实时、离线数仓，流批一体，湖仓一体
+- 存储、计算资源分析与优化
 - 数据管理、治理
 - 元数据与主数据
-- 数据质量、安全
+- 数据质量、数据安全
 
 ## 个人
 
@@ -14,8 +14,8 @@
 
 #### 工具箱
 
-- Word、Excel、PPT、Project
-- Calendar、Keep、Evernote、Draw、ProcessOn
+- Word、Excel、PPT、Project、OneNote
+- Calendar、Keep、Evernote、Draw、Excalidraw、ProcessOn
 - CheatSheet、VS Code、Idea、Notebook
 - Anaconda、Docker、Rancher、Git、Maven
 - SQL、Java、Scala、Python、Shell
@@ -65,6 +65,7 @@
 
 - 沟通、提问、倾听
 - 复盘
+- OKR
 - 基础职业素养：《金字塔原理》、《学会提问》、《用图表说话》、《高效能人士的七个习惯》
 
 ## 管理
