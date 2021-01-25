@@ -1,6 +1,6 @@
 # Project information
-site_name: 成长学习笔记
-site_description: 成长学习笔记
+site_name: HyperJ's Note
+site_description: HyperJ's Note
 site_author: HyperJ
 site_url: https://hyperj.net/talk.growth
 
@@ -87,6 +87,8 @@ markdown_extensions:
 # Page tree
 nav:
   - 主页: index.md
+  - Weekly:
+    - 2021: weekly/2021.md
   - 工作:
     - 工作: work.md
   - 学习:
